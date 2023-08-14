@@ -203,11 +203,12 @@
     display: block;
     margin: auto 0;
     padding: 10px;
-    color: rgb(213, 213, 214);
+    color: rgb(60, 60, 60);
     background: var(--hljs-bg) !important;
     border-radius: var(--radius);
     overflow-x: auto;
     word-break: break-all;
+    border: 1px solid var(--border);
 }
 
 .post-content blockquote {
